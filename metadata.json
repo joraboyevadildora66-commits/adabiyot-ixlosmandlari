@@ -1,0 +1,6 @@
+{
+  "name": "Adabiyot ixlosmandlari",
+  "description": "O‘zbekiston maktablari uchun adabiyot fani bo‘yicha professional interaktiv ta’lim platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

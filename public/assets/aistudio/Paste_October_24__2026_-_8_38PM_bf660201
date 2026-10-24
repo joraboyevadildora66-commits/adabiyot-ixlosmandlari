@@ -1,0 +1,748 @@
+# MASTER PROMPT: “ADABIYOT IXLOMANDLARI”
+## O‘zbekiston maktablari uchun professional interaktiv ta’lim platformasi
+
+Sen senior full-stack dasturchi, tajribali UI/UX dizayner, ta’lim texnologiyalari arxitektori, ma’lumotlar bazasi mutaxassisi va O‘zbekiston maktab ta’limi metodikasini hisobga oladigan kontent muhandisi sifatida ishlaysan.
+
+Menga **“Adabiyot ixlosmandlari”** nomli, real ishlaydigan, zamonaviy, kreativ, o‘quvchilarga tushunarli va o‘qituvchilar uchun foydali veb-platforma yarat.
+
+Bu oddiy landing page, statik maket yoki faqat chiroyli kartochkalar to‘plami bo‘lmasin. Bu — O‘zbekiston maktab o‘quvchilarining adabiyot faniga qiziqishini oshirish, mustaqil mutolaa qilishga o‘rgatish, badiiy asarlarni tahlil qilishni rivojlantirish va o‘qituvchilarning darslarini interaktiv tashkil etishiga ko‘maklashadigan to‘liq ta’lim platformasi.
+
+**ASOSIY TAMOYIL:** avval haqiqiy ishlaydigan mahsulotni yarat, keyin uni vizual va funksional jihatdan mukammallashtir. Hech bir tugma ishlamaydigan, matnlari tasodifiy, faqat namoyish uchun tayyorlangan demo bilan cheklanma.
+
+---
+
+# 1. LOYIHA MAQSADI VA AUDITORIYASI
+
+Platforma quyidagi foydalanuvchilar uchun xizmat qiladi:
+
+- 5–11-sinf o‘quvchilari;
+- adabiyot fani o‘qituvchilari;
+- ota-onalar;
+- mustaqil mutolaa qiluvchi kitobxonlar.
+
+O‘quvchilarning ehtiyojlari:
+
+- uzun va murakkab matnlarni tushunish;
+- yozuvchi, shoir, asar, janr va adabiy davrlarni farqlash;
+- badiiy san’atlarni topish va izohlash;
+- qahramonlarning xarakteri, voqealar rivoji va asarning g‘oyasini tahlil qilish;
+- she’rlarni tushunib o‘qish;
+- fikrni dalillar bilan ifodalash;
+- imlo, matn tuzish va adabiy tahlil ko‘nikmalarini rivojlantirish;
+- testlarga tayyorlanish;
+- mustaqil kitob o‘qish odatini shakllantirish.
+
+O‘qituvchilar uchun vazifalar:
+
+- darsga tayyor material topish;
+- mavzu bo‘yicha tezkor test tuzish;
+- sinfda jamoaviy o‘yin o‘tkazish;
+- o‘quvchilar bilimini baholash;
+- uy vazifalarini belgilash;
+- natijalarni tushunarli ko‘rinishda kuzatish.
+
+Ta’lim yondashuvi o‘yinlashtirish, faol o‘rganish, takrorlash, darajaga mos topshiriqlar, matn bilan ishlash va o‘z fikrini mustaqil asoslashga tayansin.
+
+# 2. O‘ZBEKISTON TA’LIM TIZIMIGA MOSLIK
+
+Kontentni yaratishdan avval mavjud imkoniyatlar doirasida rasmiy va ishonchli manbalarni tekshir:
+
+- O‘zbekiston Respublikasi Maktabgacha va maktab ta’limi vazirligining rasmiy resurslari;
+- eduportal.uz elektron darsliklar portali;
+- lex.uz qonunchilik bazasi;
+- davlat ta’lim standartlari va amaldagi o‘quv dasturlari;
+- vakolatli ta’lim tashkilotlarining metodik materiallari;
+- litsenziyasi va foydalanish shartlari aniq bo‘lgan elektron kutubxonalar.
+
+Rasmiy manba bilan norasmiy manbani farqlashni ta’minla. Har bir darslikning sinfi, nashr yili, tili, manbasi va nashr holatini imkon qadar ko‘rsat.
+
+5–11-sinflar uchun alohida o‘quv yo‘nalishlari yaratilishi kerak. Har bir sinfning kontenti tegishli amaldagi o‘quv dasturi bilan tekshirilsin. Agar muayyan sinf uchun rasmiy dastur yoki tasdiqlangan material topilmasa, uni mavjud deb ko‘rsatma; materialni “qo‘shimcha mashg‘ulot” yoki “tekshirilishi kerak” deb belgilab qo‘y.
+
+Adabiyotning quyidagi yo‘nalishlarini qamrab ol:
+
+1. Xalq og‘zaki ijodi: ertak, maqol, matal, doston, topishmoq, afsona va rivoyat.
+2. Mumtoz o‘zbek adabiyoti.
+3. Jadid adabiyoti va ma’rifatparvarlik.
+4. XX asr o‘zbek adabiyoti.
+5. Mustaqillik davri adabiyoti.
+6. Zamonaviy o‘zbek adabiyoti.
+7. Jahon adabiyoti.
+8. She’riyat va nasr.
+9. Drama va sahna asarlari.
+10. Adabiyot nazariyasi va badiiy san’atlar.
+11. Adabiy tanqid va matn tahlili.
+12. Ijodiy yozish, insho, taqriz va kitob taqdimoti.
+
+Har bir mavzu yoshga mos, ilmiy jihatdan asoslangan va pedagogik jihatdan tushunarli bo‘lsin.
+
+# 3. TILLAR VA KODLASH TALABLARI
+
+Platforma to‘rtta til rejimini qo‘llab-quvvatlasin:
+
+- O‘zbek tili — lotin yozuvi: `uz-Latn`.
+- O‘zbek tili — kirill yozuvi: `uz-Cyrl`.
+- Rus tili: `ru`.
+- Ingliz tili: `en`.
+
+Standart til — o‘zbek lotin yozuvi.
+
+Til tanlash tugmasi header qismida kichik va qulay bo‘lsin. Til o‘zgartirilganda navigatsiya, tugmalar, formalar, xatolik xabarlari, darslar, topshiriqlar, test savollari, javob izohlari, profil, sozlamalar va footer to‘liq mos tilda ishlashi kerak.
+
+O‘zbek lotin yozuvidagi kontentni kirillga mexanik aylantirishning o‘zi bilan cheklanma. Alifboga aylantirishda ismlar, qisqartmalar, apostroflar va adabiy terminlar buzilmasin. Har bir til uchun alohida, tahrirlanadigan tarjima maydonlari saqla.
+
+Tarjimalar uchun `i18n` arxitekturasidan foydalan. Matnlarni komponentlar ichiga tartibsiz yozib tashlama. JSON lug‘atlari yoki tegishli tarjima tizimi orqali boshqar. Barcha foydalanuvchiga ko‘rinadigan matnlar imlo va punktuatsiya jihatdan tekshirilsin.
+
+# 4. DIZAYN VA BREND
+
+Brend nomi: **Adabiyot ixlosmandlari**.
+
+Brend xarakteri: bilimli, samimiy, zamonaviy, ijodkor, ishonchli va o‘quvchini ruhlantiruvchi.
+
+Dizayn minimalistik, ammo zerikarli bo‘lmasin. Interfeys maktab o‘quvchilariga jozibador, o‘qituvchilarga esa jiddiy va qulay ko‘rinsin.
+
+Vizual uslub:
+
+- issiq oq yoki och krem fon;
+- to‘q ko‘k yoki grafit rangli asosiy matn;
+- zaytun-yashil yoki yumshoq ko‘k asosiy aksent;
+- iliq sariq yoki zarg‘aldoq rangli kichik urg‘ular;
+- ortiqcha gradientlar, haddan tashqari yorqin ranglar va katta soyalarni ishlatma;
+- kichik, bir xil uslubdagi ikonlar;
+- ixcham tugmalar va o‘qilishi oson matnlar;
+- chiroyli bo‘sh joylar, ravshan vizual ierarxiya va muntazam grid;
+- 12–18 px atrofidagi kartochka radiuslari;
+- haqiqiy, sifatli yozuvchi portretlari, kitoblar, kutubxonalar va tarixiy joylarning suratlari;
+- kerakli joylarda nafis kitob illustratsiyalari va mayin harakatlar.
+
+Yozuvlar uchun o‘qilishi yaxshi zamonaviy sans-serif shrift ishlat. Sarlavhalarda adabiy muhitni eslatuvchi serif shriftni me’yorida qo‘llash mumkin. O‘zbek va kirill belgilarini to‘liq qo‘llaydigan shrift tanla.
+
+Logotip minimalistik bo‘lsin: ochiq kitob, qalam yoki kitob sahifalaridan hosil bo‘lgan belgi. Brend nomi aniq o‘qilsin.
+
+Ikki xil mavzu yaratilishi shart:
+
+1. Light mode.
+2. Dark mode.
+
+Mavzu almashtirilganda butun interfeys, kartalar, matnlar, formalar, o‘yin maydoni, modal oynalar va diagrammalar moslashsin. Tanlov foydalanuvchining qurilmasida saqlansin.
+
+Dark mode faqat qora fon bilan cheklanmasin; matn kontrasti va ranglar uyg‘unligiga e’tibor ber.
+
+# 5. RESPONSIVE LAYOUT VA ACCESSIBILITY
+
+Sayt mobil telefon, planshet, noutbuk va katta monitorlarda to‘liq ishlasin.
+
+Mobile-first yondashuvni qo‘lla.
+
+Mobil qurilmalarda:
+- navigatsiya ixcham bo‘lsin;
+- tugmalar barmoq bilan bosishga qulay bo‘lsin;
+- kartochkalar bir ustunga moslashsin;
+- test savollari ekran chegarasidan chiqmasin;
+- jadval va diagrammalar o‘qiladigan bo‘lsin;
+- o‘yinlar touch boshqaruvni qo‘llab-quvvatlasin.
+
+Desktopda kontent kengligi me’yorida saqlansin va matnlar haddan tashqari uzun qatorlarda ko‘rinmasin.
+
+Accessibility talablari:
+- semantik HTML;
+- to‘g‘ri heading iyerarxiyasi;
+- klaviatura orqali boshqarish;
+- aniq focus holatlari;
+- rasmlar uchun mazmunli alt matnlar;
+- formalar uchun label;
+- yetarli rang kontrasti;
+- rangdan tashqari belgilar bilan ham holatni ko‘rsatish;
+- `prefers-reduced-motion` sozlamasiga rioya qilish;
+- animatsiyalar bilan matn o‘qilishini buzmaslik.
+
+WCAG 2.2 AA talablariga imkon qadar moslash.
+
+# 6. ASOSIY SAHIFALAR
+
+## 6.1. Bosh sahifa
+
+Bosh sahifada quyidagilar bo‘lsin:
+
+- brend logotipi;
+- ixcham navigatsiya;
+- sinfni tanlash;
+- til almashtirgich;
+- light/dark mode tugmasi;
+- qidiruv;
+- foydalanuvchi profiliga kirish;
+- asosiy hero bloki;
+- qisqa va mazmunli shior;
+- “O‘rganishni boshlash” va “O‘yinlarni ko‘rish” CTA tugmalari;
+- kun mavzusi;
+- kun iqtibosi yoki maqoli;
+- haftaning yozuvchisi;
+- yangi darslar;
+- ommabop mavzular;
+- davom ettirilayotgan mashg‘ulotlar;
+- o‘qish progressi;
+- o‘qishga tavsiya etilgan asarlar;
+- interaktiv o‘yinlar;
+- foydali manbalar;
+- footer.
+
+Hero matni namunasi:
+
+“Kitobni o‘qi. Ma’noni ang la. Fikringni kashf et.”
+
+Uslub samimiy bo‘lsin, lekin bolalarcha va ortiqcha bezakli dizaynga aylanmasin.
+
+## 6.2. O‘rganish bo‘limi
+
+Mavzular sinflar, yo‘nalishlar va qiyinlik darajasi bo‘yicha tartiblansin.
+
+Har bir dars quyidagi tuzilishga ega bo‘lsin:
+
+1. Mavzu nomi va o‘quv maqsadi.
+2. Qisqa kirish.
+3. 3–7 daqiqalik sodda ma’ruza.
+4. Asosiy atamalar.
+5. Hayotiy misollar.
+6. Adabiy misol yoki qonuniy foydalanish mumkin bo‘lgan qisqa parcha.
+7. “Tushundingmi?” nazorat savollari.
+8. Interaktiv mashq.
+9. Yakuniy mini-test.
+10. Javoblar va tushuntirishlar.
+11. Keyingi tavsiya etilgan dars.
+12. Manbalar va tekshirilgan sana.
+
+Murakkab tushunchalarni bosqichma-bosqich tushuntir. Avval sodda ta’rif, keyin misol, keyin o‘quvchining o‘zi mustaqil qo‘llaydigan mashq ber.
+
+## 6.3. Kutubxona
+
+Adabiy asarlarni quyidagilar bo‘yicha izlash imkonini ber:
+
+- muallif;
+- asar nomi;
+- sinf;
+- janr;
+- davr;
+- mavzu;
+- til;
+- asar turi.
+
+Asar kartasida mavjud bo‘lsa:
+- muallif nomi;
+- asar nomi;
+- muqova rasmi;
+- qisqacha tavsif;
+- janr;
+- tegishli sinf;
+- o‘rganish maqsadi;
+- rasmiy yoki qonuniy manbaga havola;
+- o‘qilgan deb belgilash;
+- sevimlilarga qo‘shish;
+- asar bo‘yicha mashqlar.
+
+Mualliflik huquqini hurmat qil. Mualliflik huquqi bilan himoyalangan darsliklarni yoki to‘liq asarlarni ruxsatsiz nusxalab, saytda tarqatma. Ruxsat berilgan yoki ochiq manbalarga havolalar ber, o‘zing yozgan mazmunli sharh va konspektlarni yarat. Jamoat mulkidagi asarlardan foydalanganda ham aniq nashr va manbani ko‘rsat.
+
+## 6.4. Yozuvchilar va shoirlar ensiklopediyasi
+
+Har bir shaxs uchun quyidagilarni ko‘rsat:
+
+- ism-sharif;
+- hayoti haqida qisqa ma’lumot;
+- tug‘ilgan va vafot etgan yillari, agar ishonchli manbada tasdiqlansa;
+- ijodiy yo‘nalishi;
+- muhim asarlari;
+- adabiyot rivojiga qo‘shgan hissasi;
+- tarixiy davri;
+- muhim voqealar xronologiyasi;
+- real portret yoki tegishli surat;
+- manbalar;
+- bilimni tekshiradigan mini-test.
+
+Muallifning hayoti yoki asar mazmuniga doir tekshirilmagan ma’lumotni fakt sifatida yozma. Turlicha talqin qilinadigan masalalarda talqin bilan tasdiqlangan faktni farqlab ko‘rsat.
+
+## 6.5. Adabiyot nazariyasi
+
+Alohida bo‘lim sifatida quyidagilarni yorit:
+
+- adabiy tur va janrlar;
+- epik, lirik va dramatik tur;
+- syujet va kompozitsiya;
+- mavzu va g‘oya;
+- obraz va xarakter;
+- muallif pozitsiyasi;
+- qofiya, ritm va vazn;
+- tashbeh, istiora, jonlantirish;
+- mubolag‘a, tazod, talmeh;
+- tazod, takror va boshqa tegishli badiiy vositalar;
+- mumtoz she’riyatga oid tushunchalar;
+- hikoya, qissa, roman va drama tahlili;
+- nasriy va she’riy matnni tahlil qilish usullari.
+
+Har bir atama uchun:
+- sodda ta’rif;
+- to‘g‘ri misol;
+- o‘xshash atamalardan farqi;
+- keng tarqalgan xato;
+- o‘quvchi bajaradigan mashq.
+
+Faqat ta’rif yodlatish bilan cheklanma. O‘quvchiga matn ichidan badiiy vositani aniqlash, sababini tushuntirish va uning badiiy ta’sirini izohlashni o‘rgat.
+
+## 6.6. Adabiy xarita
+
+O‘zbekiston va dunyo adabiyoti bilan bog‘liq joylarni interaktiv xaritada ko‘rsatish imkoniyati bo‘lsin.
+
+Masalan:
+- mualliflar hayoti bilan bog‘liq joylar;
+- adabiy muzeylar;
+- tarixiy kutubxonalar;
+- adabiy meros obyektlari.
+
+Joylashuvlar va tarixiy tavsiflar ishonchli manbalar bilan tekshirilsin. Xarita API kaliti mavjud bo‘lmasa, sayt xato bermasin; uning o‘rniga sodda ro‘yxat yoki lokal xarita tasviri ko‘rsatilishi mumkin.
+
+# 7. INTERAKTIV O‘YINLAR
+
+“O‘yinlar olami” alohida sahifa bo‘lsin. Har bir o‘yin haqiqiy ishlasin, natijani hisoblasin va foydalanuvchiga izoh bersin.
+
+Kamida quyidagi o‘yinlarni yarat:
+
+### 1. Badiiy san’at detektivi
+O‘quvchiga jumla yoki qisqa parcha beriladi. U undagi badiiy vositani tanlaydi va nima sababdan to‘g‘ri ekanini o‘rganadi.
+
+### 2. Muallifni top
+Asar, adabiy davr yoki tasdiqlangan biografik ma’lumot asosida muallif tanlanadi.
+
+### 3. Asar va qahramon
+Qahramonlarni tegishli asarlar bilan moslashtirish mexanikasi.
+
+### 4. Adabiy krossvord
+Atamalar, mualliflar va janrlar bo‘yicha ishlaydigan krossvord.
+
+### 5. Voqealar ketma-ketligi
+Asarning muhim voqealarini to‘g‘ri tartibga joylashtirish.
+
+### 6. Janrni aniqlash
+Matnning shakli va mazmuniga qarab janrni aniqlash, javobni izohlash.
+
+### 7. Adabiy viktorina
+Har xil qiyinlik darajasidagi savollar, ball va yakuniy tahlil.
+
+### 8. She’riyat laboratoriyasi
+Qofiya, ritm, tasvir va badiiy ifoda bilan ishlash uchun yoshga mos mashqlar.
+
+### 9. Qahramon xarakteri
+Qahramonning xatti-harakatlari va tanlovlariga asoslanib uning xususiyatlarini tahlil qilish.
+
+### 10. Adabiy escape room
+Bir nechta kichik topshiriqni yechish orqali yakuniy bosqichga o‘tiladigan ta’limiy sarguzasht.
+
+### 11. Xatoni top
+Matn tahlili yoki adabiy atamaga oid noto‘g‘ri fikrni aniqlash va to‘g‘ri variantni tushunish.
+
+### 12. Kitobxonlar kundaligi
+O‘quvchi o‘qigan kitobini belgilaydi, qisqa fikrini yozadi va keyingi kitob uchun maqsad qo‘yadi.
+
+O‘yinlarda quyidagi funksiyalar bo‘lsin:
+- boshlash va qayta boshlash;
+- savollarni almashtirish;
+- ballni hisoblash;
+- javobning to‘g‘riligini ko‘rsatish;
+- xatolarni tushuntirish;
+- daraja oshirish;
+- progressni saqlash;
+- mobil qurilmada qulay boshqaruv.
+
+Vaqt chegarasi barcha o‘yinlarda majburiy bo‘lmasin. Ba’zi rejimlar xotirjam o‘rganish uchun mo‘ljallansin.
+
+To‘g‘ri javobdan tashqari, tushuntirish ham ber. Faqat ball uchun ishlaydigan, pedagogik qiymati yo‘q mini-o‘yinlar bilan cheklanma.
+
+# 8. MASHQLAR VA TESTLAR
+
+Mashqlar quyidagi formatlarda bo‘lsin:
+
+- bir javobli test;
+- bir nechta to‘g‘ri javobli test;
+- moslashtirish;
+- ketma-ketlikni tartiblash;
+- bo‘sh joyni to‘ldirish;
+- qisqa yozma javob;
+- matn ustida ishlash;
+- asarni tahlil qilish;
+- qahramonlarga tavsif berish;
+- dalil va xulosa o‘rtasidagi bog‘liqlikni aniqlash;
+- imlo va adabiy terminlar mashqlari.
+
+Har bir topshiriqqa tegishli sinf, mavzu, qiyinlik darajasi va o‘quv maqsadini biriktir.
+
+Savollar tasodifiy va mantiqsiz bo‘lmasin. Bir savolning javobi ikkinchi savolning o‘zida oshkor etilmasin. Variantlar mazmunan bir-biriga yaqin, lekin aniq farqlanadigan bo‘lsin.
+
+Testdan so‘ng:
+- to‘g‘ri javoblar soni;
+- foiz ko‘rinishidagi natija;
+- xato qilingan savollar;
+- har bir xato uchun tushuntirish;
+- qayta ishlash tavsiyalari;
+- keyingi mashg‘ulot tavsiyasi ko‘rsatilsin.
+
+Qisqa yozma javoblar uchun oldindan belgilangan mezonlardan foydalan. AI orqali tekshiruv qo‘shilsa, uning bahosi yakuniy hukm sifatida ko‘rsatilmasin; o‘qituvchining baholashiga imkon qoldir.
+
+# 9. IJODIY VA ZAMONAVIY G‘OYALAR
+
+Quyidagi xususiyatlarni ham amalga oshir:
+
+### Kunlik adabiy kashfiyot
+Har kuni bitta muallif, asar, atama yoki qiziqarli adabiy fakt.
+
+### Bilim xaritasi
+O‘quvchi mavzularni o‘zlashtirgan sari keyingi mavzular ochiladi. Biroq ketma-ket o‘qish har doim majburiy bo‘lmasin.
+
+### Shaxsiy mutolaa rejasi
+O‘quvchi kitob o‘qishga mo‘ljallangan rejasini va kichik maqsadlarini belgilaydi.
+
+### Yutuqlar
+“Birinchi test”, “5 ta dars”, “Yangi muallif”, “Adabiyot tadqiqotchisi” kabi mazmunli nishonlar.
+
+### Haftalik chaqiriq
+O‘quvchini biror asar haqida fikr yozish, maqol topish yoki badiiy vositani izlashga undaydigan topshiriq.
+
+### Bahs maydoni
+“Odamni qahramon qiladigan narsa nima?”, “Asarning g‘oyasi faqat muallif aytgan fikrdan iboratmi?” kabi yoshga mos adabiy muhokamalar. O‘quvchilar boshqalarning fikrini hurmat qilish va dalil keltirishga o‘rgatilsin.
+
+### Ijodiy ustaxona
+She’r yozish, hikoya boshlanishini davom ettirish, qahramon kundaligi, kitob taqrizi va muqova g‘oyasi uchun mashg‘ulotlar.
+
+### O‘qituvchi taqdimoti
+O‘qituvchi ekranda mavzu yoki savolni ko‘rsatib, sinf bilan jamoaviy bajarishi mumkin bo‘lgan rejim.
+
+### Kontentga asoslangan qiziqarli faktlar
+Faqat ishonchli manba bilan tasdiqlanadigan faktlardan foydalan. Mualliflar hayoti haqidagi mashhur, lekin tasdiqlanmagan rivoyatlarni hujjatli fakt sifatida tarqatma.
+
+# 10. O‘QITUVCHI PANELI
+
+O‘qituvchilar uchun alohida panel yaratilishi kerak.
+
+Imkoniyatlar:
+- darslar ro‘yxati;
+- sinflar bo‘yicha materiallar;
+- test yaratish;
+- tayyor testni tanlash;
+- topshiriqni sinfga berish;
+- topshiriqqa muddat qo‘yish;
+- natijalarni kuzatish;
+- o‘quvchilar qaysi mavzuda ko‘proq xato qilayotganini ko‘rish;
+- savollarni tahrirlash;
+- mashg‘ulotni ekran orqali ko‘rsatish;
+- materiallarni chop etishga mos sahifada chiqarish.
+
+O‘qituvchi sinfni maxsus kod orqali boshqarishi mumkin. O‘quvchilarni qatnashtirish uchun keraksiz shaxsiy ma’lumot talab qilma.
+
+O‘quvchilar natijalarini boshqa foydalanuvchilarga ochiq e’lon qilma. Reyting ixtiyoriy, foydalanuvchi uchun xavfsiz va rag‘batlantiruvchi bo‘lsin. O‘quvchilarni kamsitadigan yoki ularni bir-biriga qarshi qo‘yadigan mexanikani ishlatma.
+
+# 11. QIDIRUV VA SARALASH
+
+Saytning barcha asosiy bo‘limlarida qulay qidiruv bo‘lsin.
+
+Qidiruv:
+- mualliflar;
+- asarlar;
+- darslar;
+- nazariy atamalar;
+- savollar;
+- janrlar;
+- kutubxona manbalari.
+
+Qidiruvda lotin va kirill yozuvi imkon qadar o‘zaro mos ishlasin. Apostrof variantlari va keng tarqalgan yozuv farqlarini hisobga ol.
+
+Natijalar tur, sinf, til va mavzu bo‘yicha saralansin. Hech qanday natija topilmasa, tushunarli xabar va foydali takliflar ko‘rsat.
+
+# 12. INTERNET XAVFSIZLIGI VA ISHONCHLI MANBALAR
+
+Platformada “Xavfsiz internet” bo‘limini yarat.
+
+Bu bo‘limda o‘quvchilarga quyidagilar tushuntirilsin:
+- ishonchli ta’lim manbasini tanlash;
+- muallif, nashr sanasi va manbani tekshirish;
+- shubhali havolalarni ochmaslik;
+- noma’lum fayllarni yuklab olmaslik;
+- begonalarga shaxsiy ma’lumot bermaslik;
+- parol va hisob ma’lumotlarini oshkor qilmaslik;
+- internetdagi axborotni tanqidiy baholash;
+- mualliflik huquqi va plagiat;
+- nomaqbul yoki zararli materialga duch kelganda ishonchli kattaga yoki o‘qituvchiga murojaat qilish.
+
+Manbalarni quyidagi holatlarga ajrat:
+
+1. **Tavsiya etilgan** — ishonchliligi tekshirilgan, ta’lim uchun mos resurslar.
+2. **Tekshirish kerak** — manbasi, muallifligi yoki foydalanish shartlari aniq bo‘lmagan resurslar.
+3. **Maktab siyosati bo‘yicha bloklangan** — administrator belgilagan, maktab foydalanish siyosatiga muvofiq cheklangan resurslar.
+
+Ruxsat etilgan yoki taqiqlangan saytlar bo‘yicha tekshirilmagan ro‘yxat tuzma. O‘zbekiston qonunchiligi bo‘yicha holati o‘zgarishi mumkin bo‘lgan resurslarni mutlaq huquqiy hukm bilan tasniflama. Faqat vakolatli rasmiy manbalar bilan tasdiqlangan ma’lumotlarni ko‘rsat va oxirgi tekshirilgan sanani yoz.
+
+Birinchi bosqichda rasmiy ta’lim portallari va qonunchilik manbalarini tavsiya et. Har bir tashqi havola uchun sayt nomi, maqsadi va manba holatini ko‘rsat.
+
+Muhim texnik cheklov: veb-saytning o‘zi o‘quvchining qurilmasidagi butun internetga kirishni bloklay olmaydi. Platformada maktab tomonidan tasdiqlangan havolalarni boshqarish va tashqi manbalarni ogohlantirish bilan ochish imkoniyati bo‘lsin. Qurilma yoki tarmoq darajasidagi haqiqiy bloklash uchun alohida maktab tarmog‘i yoki ota-ona nazorati vositalari kerakligini administratorga tushuntir.
+
+Administrator tasdiqlangan domenlar ro‘yxatini boshqara olsin. Ushbu ro‘yxat kod ichida tarqoq holda yozilmasin; sozlamalar yoki ma’lumotlar bazasidan boshqarilsin.
+
+# 13. RASMLAR, MEDIA VA MANBALAR
+
+Real rasmlar va vizual materiallardan foydalan:
+
+- yozuvchi va shoirlarning fotosuratlari;
+- kutubxonalar;
+- tarixiy adabiy joylar;
+- qonuniy foydalanish mumkin bo‘lgan kitob muqovalari;
+- adabiy asarga mos tasvirlar.
+
+Ishonchli, litsenziyasi ma’lum bo‘lgan manbalarni tanla. Zarur joyda Wikimedia Commons kabi ochiq litsenziyali manbalardan foydalanish mumkin, lekin har bir faylning litsenziyasini alohida tekshir.
+
+Atributsiya talab qilinsa, muallif, manba va litsenziya haqida ma’lumot ber. Qidiruv natijasida topilgan har qanday suratni avtomatik ravishda erkin ishlatish mumkin deb hisoblama.
+
+Rasmlarni lazy loading orqali yukla. Zarur tasvirlar mavjud bo‘lmasa, buzilgan rasm belgisi o‘rniga chiroyli fallback ko‘rsat.
+
+# 14. TEXNIK ARXITEKTURA
+
+Avval Google AI Studio taqdim etgan loyiha tuzilmasini tekshir, so‘ng unga mos, barqaror va Vercel bilan ishlay oladigan arxitekturani tanla.
+
+Asosiy talablar:
+
+- React va TypeScript;
+- qayta foydalaniladigan komponentlar;
+- aniq turdagi ma’lumotlar;
+- modulli papka tuzilmasi;
+- barqaror routing;
+- yagona dizayn tizimi;
+- barcha asosiy funksiyalar uchun aniq interfeyslar;
+- xatolarni boshqarish;
+- loading, empty, success va error holatlari;
+- validatsiya;
+- responsive komponentlar.
+
+Agar mavjud muhit Next.js bilan ishlasa, uning tavsiya etilgan App Router tuzilmasidan foydalan. Agar AI Studio mavjud loyihani boshqa qo‘llab-quvvatlanadigan tuzilma bilan yaratgan bo‘lsa, uni asossiz ravishda boshqa frameworkga ko‘chirma; joriy tuzilmani saqlab, Vercelga moslashtir.
+
+Next.js va Vite arxitekturalarini bitta loyihada aralashtirma.
+
+Tavsiya etiladigan kutubxonalar:
+- TypeScript;
+- Tailwind CSS yoki mavjud muhit bilan mos yengil CSS yechimi;
+- lucide-react ikonlari;
+- zarurat bo‘lsa, React Hook Form va Zod;
+- zarurat bo‘lsa, animatsiya uchun Framer Motion;
+- testlar uchun Vitest va React Testing Library.
+
+Kutubxonalarni faqat haqiqiy ehtiyoj bo‘lsa qo‘sh. Keraksiz dependency va ortiqcha murakkablikdan qoch.
+
+Kod tuzilmasini quyidagi mantiqqa yaqin tashkil et:
+
+- `components/` — qayta foydalaniladigan UI komponentlari;
+- `pages/` yoki tegishli routing papkasi;
+- `features/` — darslar, o‘yinlar, testlar, kutubxona;
+- `data/` — sinov va tasdiqlangan lokal ma’lumotlar;
+- `locales/` — to‘rt til uchun tarjimalar;
+- `lib/` — umumiy yordamchi funksiyalar;
+- `types/` — TypeScript turlari;
+- `services/` — API, ma’lumotlar ombori va biznes mantiqi;
+- `tests/` — testlar.
+
+Bu papkalarni mavjud framework talablariga mos ravishda tashkil et. Faqat papka nomlarini yaratishning o‘zi yetarli emas: ularning ichida haqiqiy, ishlaydigan kod bo‘lsin.
+
+# 15. BACKEND, AUTENTIFIKATSIYA VA MA’LUMOTLAR BAZASI
+
+Loyihani kelajakda haqiqiy foydalanuvchilar bilan ishlay oladigan qilib tayyorla.
+
+Agar autentifikatsiya va serverda saqlanadigan foydalanuvchi ma’lumotlari ishlatilsa, Supabase kabi mos xizmatdan foydalanish mumkin. Biroq konfiguratsiyasi bo‘lmagan holatda ham saytning asosiy ta’lim funksiyalari ishlashi shart.
+
+Ma’lumotlar modeli kamida quyidagilarni qamrab olishga tayyor bo‘lsin:
+
+- foydalanuvchilar va rollar;
+- darslar va mavzular;
+- mualliflar va asarlar;
+- testlar va savollar;
+- foydalanuvchi urinishlari;
+- progress va yutuqlar;
+- o‘qilgan kitoblar;
+- sevimlilar;
+- o‘qituvchi sinflari;
+- vazifalar;
+- sinf natijalari;
+- manbalar va ularning tekshirilgan holati.
+
+Agar Supabase ishlatilsa:
+- Row Level Security siyosatlarini yarat;
+- serverga tegishli maxfiy kalitlarni klientga bermagin;
+- o‘quvchi faqat o‘z ma’lumotlarini ko‘rishini ta’minla;
+- o‘qituvchi faqat vakolatli sinflarni boshqarsin;
+- administrator vakolatlarini alohida nazorat qil.
+
+Demo yoki mehmon rejimi konfiguratsiyasiz ishlashi mumkin. LocalStorage’ga saqlangan demo ma’lumotlarini serverda saqlanayotgan haqiqiy ma’lumot deb ko‘rsatma.
+
+Yordamchi AI funksiyasi qo‘shilsa, Gemini API kalitini faqat server muhitida saqla. Kalitlarni frontend kodiga, GitHub repozitoriyasiga yoki ochiq konfiguratsiyaga yozma.
+
+AI yordamchisi adabiy tushunchalarni tushuntirish, savollar yaratish va matnni tahlil qilishga ko‘maklashsin. U tekshirilmagan tarixiy yoki adabiy da’volarni fakt sifatida taqdim etmasin. Javoblarni imkon qadar foydalanilgan manbalarga bog‘lasin. AI xizmati sozlanmagan yoki mavjud bo‘lmagan paytda ham qolgan sayt ishlashda davom etsin.
+
+O‘quvchilar uchun minimal shaxsiy ma’lumot yig‘. Maxfiylik, xavfsizlik va bolalarning onlayn himoyasini ustuvor qo‘y.
+
+# 16. GOOGLE AI STUDIO BILAN ISHLASH
+
+Loyihani Google AI Studio Build mode ichida ishlab chiq.
+
+Avval talablarni tahlil qilib, qisqa texnik reja tuz, keyin implementatsiyaga o‘t. Faqat kelajakda qilinadigan ishlar ro‘yxatini yozib, kod yaratishni to‘xtatma.
+
+Birinchi versiyada quyidagi oqim to‘liq ishlasin:
+
+1. Bosh sahifa.
+2. Navigatsiya.
+3. Til almashtirish.
+4. Light/dark mode.
+5. Sinfni tanlash.
+6. Darslar katalogi.
+7. Darsni o‘qish.
+8. Interaktiv test.
+9. Kamida to‘rtta to‘liq ishlaydigan o‘yin.
+10. Test natijalarini ko‘rsatish.
+11. Progressni saqlash.
+12. Kutubxona va mualliflar sahifasi.
+13. Xavfsiz internet sahifasi.
+14. Mobil qurilmadagi to‘liq interfeys.
+
+Bular ishlagandan keyin qolgan o‘yinlarni, ijodiy ustaxonani, o‘qituvchi panelini va server funksiyalarini bosqichma-bosqich yakunla. Har yangi modul mavjud kodni buzmasin.
+
+# 17. PERFORMANCE VA SEO
+
+Quyidagilarga e’tibor ber:
+
+- rasmlarni optimallashtirish;
+- kerak bo‘lmagan renderlarni kamaytirish;
+- sahifalarni zaruratga qarab yuklash;
+- yirik ma’lumotlar to‘plamlarini samarali boshqarish;
+- ortiqcha kutubxonalarni olib tashlash;
+- semantik HTML;
+- sahifa sarlavhalari va meta-description;
+- Open Graph metadata;
+- favicon;
+- `robots.txt` va `sitemap.xml`, frameworkga mos bo‘lsa;
+- tegishli canonical URL sozlamalari;
+- xatolik va bo‘sh holatlarni tushunarli ko‘rsatish;
+- qidiruv tizimlari uchun indekslanishga mos sahifalar.
+
+Offline rejim yoki PWA xususiyati qo‘shilsa, faqat zarur statik kontentni xavfsiz keshlashtir. Maxfiy foydalanuvchi ma’lumotlarini himoyasiz keshlama.
+
+# 18. MUALLIFLIK HUQUQI VA PEDAGOGIK HALOLLIK
+
+Darsliklar, she’rlar, hikoyalar, rasmlar va boshqa materiallardan qonuniy foydalan.
+
+Mualliflik huquqi bilan himoyalangan asarlarning uzun parchalarini ruxsatsiz ko‘chirma. Buning o‘rniga:
+- o‘z so‘zlaring bilan yozilgan tahlil;
+- qisqa, asosli iqtibos;
+- ochiq litsenziyali yoki jamoat mulkidagi matn;
+- vakolatli manbaga havola;
+- mualliflik huquqi shartlariga mos mashq yarat.
+
+Asar haqida xulosa berilganda voqealar tafsilotini to‘qib chiqarmagin. Javobni bilmasang, buni yashirma; tekshirish uchun tegishli manbani ko‘rsat.
+
+O‘quvchilarni faqat yodlashga emas, dalil keltirish, mustaqil talqin qilish, savol berish va o‘z fikrini tushuntirishga o‘rgat.
+
+# 19. KOD SIFATI VA XATOLAR USTIDA ISHLASH
+
+Kod yozishda quyidagi qat’iy qoidalarga rioya qil:
+
+- `any` turidan zarurat bo‘lmasa foydalanma;
+- `console.log` va vaqtinchalik debug kodlarini production versiyada qoldirma;
+- foydalanilmayotgan import va o‘zgaruvchilarni olib tashla;
+- katta komponentlarni mantiqiy kichik komponentlarga ajrat;
+- takrorlangan kodni umumiy funksiyalar orqali boshqar;
+- noto‘g‘ri API javoblarini tekshir;
+- foydalanuvchi kiritgan ma’lumotlarni validatsiya qil;
+- loading va error holatlarini qamrab ol;
+- maxfiy ma’lumotlarni loglarda oshkor qilma;
+- kerakli joylarda error boundary yoki mos xatolik boshqaruvini qo‘lla;
+- mavjud loyiha konfiguratsiyasini tekshirmasdan dependency versiyalarini tasodifiy almashtirma.
+
+Kod yozish tugagach, quyidagilarni haqiqatan bajar:
+
+1. Loyiha dependency’larini tekshir.
+2. TypeScript tekshiruvini bajar.
+3. Lint tekshiruvini mavjud bo‘lsa ishga tushir.
+4. Production build yarat.
+5. Testlarni ishga tushir.
+6. Muhim sahifalar va foydalanuvchi oqimlarini tekshir.
+7. Brauzer konsolidagi xatolarni tuzat.
+8. Responsive layoutni tekshir.
+9. To‘rt tilda matnlar to‘g‘ri chiqishini tekshir.
+10. Dark mode barcha asosiy komponentlarda ishlashini tekshir.
+11. Testlar, progress va o‘yin natijalarini tekshir.
+12. Maxfiy kalitlar frontendga chiqib ketmaganini tekshir.
+
+Faqat haqiqatan bajarilgan tekshiruvlarni bajarilgan deb yoz. Ishga tushmagan testni muvaffaqiyatli deb ko‘rsatma.
+
+# 20. GITHUB VA VERCELGA TAYYORLASH
+
+Loyihani GitHub bilan sinxronlash va Vercelga joylashtirish uchun tayyorla.
+
+Quyidagilar talab qilinadi:
+
+- to‘g‘ri sozlangan `package.json`;
+- ishlaydigan install, development va production build buyruqlari;
+- frameworkga mos konfiguratsiya;
+- `.gitignore`;
+- kerak bo‘lsa, `.env.example`;
+- maxfiy ma’lumotlarsiz README;
+- to‘g‘ri environment variable hujjatlari;
+- Vercelga mos routing va server funksiyalari;
+- `npm run build` muvaffaqiyatli bajarilishi;
+- barcha kerakli ichki sahifalarga bevosita URL orqali kirish ishlashi;
+- GitHub repozitoriyasida kalit va parollar bo‘lmasligi.
+
+Agar loyiha Vite bilan ishlasa, Vercel uchun mos build va output sozlamalaridan foydalan. Agar Next.js bilan ishlasa, uning Vercel tomonidan qo‘llab-quvvatlanadigan deploy oqimidan foydalan.
+
+Gemini API yoki Supabase kalitlari kerak bo‘lsa, ularni Vercel Project Settings → Environment Variables bo‘limida sozlashni README’da tushuntir. Production va Preview muhitlarini hisobga ol.
+
+AI Studio GitHub integratsiyasi mavjud bo‘lsa, sinxronlash uchun loyiha tayyorla. GitHub yoki Vercel hisobiga kirish talab qilinsa, foydalanuvchi bajarishi kerak bo‘lgan amallarni aniq ko‘rsat. Ruxsat yoki autentifikatsiya mavjud bo‘lmasa, push yoki deploy muvaffaqiyatli bajarildi deb da’vo qilma.
+
+Deploydan oldin muvaffaqiyatli build talab qilinadi. Muvaffaqiyatli buildning o‘zi barcha xatolar yo‘qligini isbotlamaydi; runtime tekshiruvlari va asosiy foydalanuvchi oqimlari ham tekshirilsin.
+
+# 21. QABUL QILISH MEZONLARI
+
+Loyihani tayyor deb hisoblashdan oldin quyidagi savollarga javob ber:
+
+- Bosh sahifa barcha ekranlarda to‘g‘ri ishlaydimi?
+- Barcha navigatsiya havolalari ishlaydimi?
+- Har bir til rejimi ishlaydimi?
+- Interfeys matnlarida buzilgan tarjima yoki belgi bormi?
+- Dark va light mode o‘rtasidagi almashish ishlaydimi?
+- Darslar ichidagi testlar haqiqatan javoblarni hisoblaydimi?
+- Natijalar mantiqan to‘g‘rimi?
+- O‘yinlar qayta boshlanadimi va natijani to‘g‘ri ko‘rsatadimi?
+- Bo‘sh holatlar va xatoliklar foydalanuvchiga tushunarli ko‘rsatiladimi?
+- Sayt konfiguratsiyasiz demo rejimida ishlaydimi?
+- Konfiguratsiya mavjud bo‘lmasa, AI yoki tashqi servis xatosi butun saytni to‘xtatib qo‘ymaydimi?
+- Mobil telefonda gorizontal ortiqcha scroll yoki ustma-ust tushgan elementlar yo‘qmi?
+- Ishonchli manbalar ko‘rsatilganmi?
+- Rasm va matnlar uchun litsenziya talablariga rioya qilinganmi?
+- Foydalanuvchi ma’lumotlari xavfsizmi?
+- Maxfiy kalitlar frontendga chiqmaganmi?
+- Production build muvaffaqiyatli tugaydimi?
+- GitHub va Vercelga joylashtirish bo‘yicha hujjatlar tayyormi?
+
+# 22. YAKUNIY TOPSHIRIQ
+
+Endi ushbu talablar asosida haqiqiy ishlaydigan “Adabiyot ixlosmandlari” platformasini yarat.
+
+Ishni quyidagi ustuvorlik bo‘yicha olib bor:
+
+**1-bosqich:** loyiha arxitekturasi, dizayn tizimi, navigatsiya, tillar va responsive layout.
+
+**2-bosqich:** darslar, kutubxona, mualliflar, adabiyot nazariyasi va sifatli dastlabki kontent.
+
+**3-bosqich:** testlar, o‘yinlar, natijalar va progress.
+
+**4-bosqich:** foydalanuvchi rollari, o‘qituvchi paneli va server integratsiyasi.
+
+**5-bosqich:** xavfsizlik, manbalarni tekshirish, accessibility, performance va SEO.
+
+**6-bosqich:** build, test, yakuniy tekshiruv, README, GitHub va Vercelga tayyorgarlik.
+
+Har bir bosqichda haqiqiy kod yoz, mavjud kodni ehtiyotkorlik bilan yaxshila va ishlayotgan funksiyalarni buzma. Birinchi versiya ishlaydigan holatga kelgach, uni qisqacha tekshir va qolgan ishlarni yakunla.
+
+Keraksiz aniqlashtiruvchi savollar bilan ishni to‘xtatma. Qaror uchun ma’lumot yetishmasa, xavfsiz va sodda standart variantni tanla, farazni hujjatlashtir va davom et.
+
+**Natija:** professional ko‘rinishga ega, o‘zbek ta’lim muhitiga mos, mazmunan ishonchli, to‘rt tilni qo‘llab-quvvatlaydigan, interaktiv, responsive, kengaytiriladigan hamda GitHub orqali Vercelga joylashtirishga tayyor haqiqiy ta’lim platformasi bo‘lsin.
+
+Faqat bajarilgan ishlar va tekshirilgan natijalar haqida hisobot ber. Ishlatilmagan funksiyalarni tayyor deb ko‘rsatma. Agar muhit yoki ruxsat sababli biror qadamni bajarib bo‘lmasa, aynan qaysi qadam va nima talab qilinishini tushuntir.
